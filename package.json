@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-ad-mopub",
+  "version": "1.0.0",
+  "description": "Cordova MoPub Plugin",
+  "cordova": {
+    "id": "cordova-plugin-ad-mopub",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cranberrygame/cordova-plugin-ad-mopub.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ad",
+    "mopub",
+    "monetisation",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "cranberrygame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cranberrygame/cordova-plugin-ad-mopub/issues"
+  },
+  "homepage": "https://github.com/cranberrygame/cordova-plugin-ad-mopub#readme"
+}
