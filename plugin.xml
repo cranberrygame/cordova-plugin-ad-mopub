@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-ad-mopub"
-    version="1.0.0">
+    version="1.0.1">
 	
     <name>Cordova MoPub Plugin</name>
     <description>Cordova MoPub Plugin</description>
@@ -54,8 +54,9 @@
 		
 <!--
 		<dependency id="com.google.playservices" url="https://github.com/MobileChromeApps/google-play-services" commit="1f56399572d255193f8f9564843df60e50938e69" />
+		<dependency id="com.google.playservices@21.0.0" />
 -->		
-		<dependency id="com.google.playservices@21.0.0" />		
+		<dependency id="cordova-plugin-extras-google-play-services" />		
     </platform>
 		
     <platform name="ios">
