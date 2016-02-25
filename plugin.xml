@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-ad-mopub"
-    version="1.0.1">
+    version="1.0.2">
 	
     <name>Cordova MoPub Plugin</name>
     <description>Cordova MoPub Plugin</description>
